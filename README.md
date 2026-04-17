@@ -1,13 +1,11 @@
 ﻿# Agentic LXD Framework
 > **Bridging Pedagogical Excellence with Autonomous AI Systems**
 
-![Agentic AI Roadmap](workflow.jpg)
-
 ## Project Overview
 The **Agentic LXD Framework** is a structured methodology designed to integrate Learning Experience Design (LXD) with Autonomous AI systems. This framework was developed through experimental research to transform student digital literacy via a ChatGPT-Assisted Problem-Based Learning (PBL) model.
 
 ## System Architecture and Roadmap
-Aligned with the **Extended Learning Roadmap** visualization, the framework incorporates:
+The framework incorporates a synthesized approach to pedagogical automation:
 * **Knowledge Base Architecture**: Synthesis of CDC/CDM protocols with Retrieval-Augmented Generation (RAG) optimized data structures.
 * **Curriculum Mapping and Logic**: Automated alignment between Learning Outcomes (PLO, CLO, MLO) utilizing AI-driven logic.
 * **Evaluation and Benchmarking**: Performance auditing of Large Language Models (LLMs) to ensure reference integrity and document reading accuracy.
