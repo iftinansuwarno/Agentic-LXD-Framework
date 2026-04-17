@@ -1,6 +1,8 @@
 # Agentic LXD Framework
 **Your Expert Writing Partner for Pedagogy, Instructional Design, and Academic Research.**
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Framework: LXD](https://img.shields.io/badge/Framework-LXD-blue.svg)](https://github.com/iftinansuwarno/Agentic-LXD-Framework)
 
 ## Prototype Access
 Experience the collaborative AI Writing Assistant on Playlab:
