@@ -16,7 +16,7 @@ Aligned with the **Extended Learning Roadmap** visualization, the framework inco
 This project utilized a Quasi-Experimental design involving Grade 11 students, yielding significant results:
 * **N-Gain Performance**: The Experimental Group achieved a **65.3%** improvement (Moderate Category), significantly outperforming the control group's **38.7%**.
 * **Mastery Learning**: **86.1%** of students achieved the minimum mastery criteria following the intervention.
-* **Statistical Validation**: Validated via Independent Samples T-test ($p < 0.05$) with an instrument reliability of **0.842 (KR-20)**.
+* **Statistical Validation**: Validated via Independent Samples T-test (p < 0.05) with an instrument reliability of **0.842 (KR-20)**.
 
 ## Framework Structure
 * **[ai-logic/](ai-logic/)**: Technical simulations of AI interaction cycles and prompt engineering based on PBL phases.
