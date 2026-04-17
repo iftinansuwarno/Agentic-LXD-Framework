@@ -1,16 +1,14 @@
-﻿# Pedagogical Methodology
-This section outlines the theoretical frameworks used to develop the Agentic-LXD-Framework.
+﻿# Research Methodology: ADDIE + Human-in-the-Loop
+This project employs a **Quasi-Experimental Nonequivalent Control Group Design** to test the impact of AI-assisted PBL on digital literacy.
 
-## 1. Bloom’s Taxonomy Integration
-Our AI agents are engineered to support higher-order thinking skills (HOTS). Instead of simple recall, the system focuses on:
-* **Analyze (Level 4):** Helping educators deconstruct complex curriculum standards into manageable learning components.
-* **Create (Level 6):** Assisting in the generation of novel instructional materials based on specific learning objectives.
+## 1. The ADDIE Process
+* **Analysis**: Identified 21st-century skill gaps in 11th-grade students.
+* **Design**: Architected the "Human-in-the-Loop" framework where AI acts as a research assistant.
+* **Development**: Created a Biology module (Excretory System) integrated with ethical AI guidelines.
+* **Implementation**: Applied to an experimental group vs. a control group.
+* **Evaluation**: Results showed a statistically significant improvement.
 
-## 2. Universal Design for Learning (UDL)
-To ensure inclusivity, the framework follows the three pillars of UDL:
-* **Multiple Means of Engagement:** AI-driven personalized learning paths to recruit student interest.
-* **Multiple Means of Representation:** Supporting various content formats (text, structured data, and visual mapping).
-* **Multiple Means of Action & Expression:** Providing diverse ways for students to demonstrate mastery through agentic feedback loops.
-
-## 3. Evidence-Based Design
-The framework synthesizes protocols from the **Curriculum Development Center (CDC)** to ensure that AI-generated content remains aligned with institutional accreditation standards.
+## 2. Evidence of Impact
+* **N-Gain Score**: **65.3%** (Experimental) vs 38.7% (Control).
+* **Mastery Achievement**: **86.1%** of students reached mastery in the AI group.
+* **Statistical Validity**: Independent Samples T-test ($p < 0.05$) with reliability of 0.842 (KR-20).
