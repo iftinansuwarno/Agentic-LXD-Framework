@@ -2,24 +2,15 @@
 > **Bridging Pedagogical Excellence with Autonomous AI Systems**
 
 ## Project Overview
-The **Agentic LXD Framework** is a structured methodology designed to integrate Learning Experience Design (LXD) with Autonomous AI systems. This framework was developed through experimental research to transform student digital literacy via a ChatGPT-Assisted Problem-Based Learning (PBL) model.
+This repository hosts the **Agentic LXD Framework**, a system designed to streamline Instructional Design and Curriculum Mapping at JHU IRC.
 
-## System Architecture and Roadmap
-The framework incorporates a synthesized approach to pedagogical automation:
-* **Knowledge Base Architecture**: Synthesis of CDC/CDM protocols with Retrieval-Augmented Generation (RAG) optimized data structures.
-* **Curriculum Mapping and Logic**: Automated alignment between Learning Outcomes (PLO, CLO, MLO) utilizing AI-driven logic.
-* **Evaluation and Benchmarking**: Performance auditing of Large Language Models (LLMs) to ensure reference integrity and document reading accuracy.
+## Key Features
+* **RAG-Optimized Knowledge Base**: Synthesizing CDC/CDM protocols.
+* **Curriculum Mapping**: Automating alignment for PLO, CLO, and MLO.
+* **Benchmarking**: Performance auditing for ID-specific AI tasks.
 
-## Empirical Evidence and Research Findings
-This project utilized a Quasi-Experimental design involving Grade 11 students, yielding significant results:
-* **N-Gain Performance**: The Experimental Group achieved a **65.3%** improvement (Moderate Category), significantly outperforming the control group's **38.7%**.
-* **Mastery Learning**: **86.1%** of students achieved the minimum mastery criteria following the intervention.
-* **Statistical Validation**: Validated via Independent Samples T-test (p < 0.05) with an instrument reliability of **0.842 (KR-20)**.
-
-## Framework Structure
-* **[ai-logic/](ai-logic/)**: Technical simulations of AI interaction cycles and prompt engineering based on PBL phases.
-* **[curriculum/](curriculum/)**: Course Design Matrix (CDM) and digital literacy rubrics based on Outcome-Based Education (OBE) standards.
-* **[methodology/](methodology/)**: Documentation of the ADDIE process and theoretical foundations, including Bloom’s Taxonomy and Universal Design for Learning (UDL).
+## Research Foundation
+Based on empirical findings showing a **65.3% N-Gain** improvement in digital literacy through structured AI-assisted learning models ($p < 0.05$).
 
 ---
-**Iftinan Suwarno** | *Johns Hopkins University*
+**Iftinan R Azzah S** | *Johns Hopkins University*
